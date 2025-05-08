@@ -20,3 +20,9 @@
 <h3>หน้า เป้าหมาย 💜</h3>
 <img src="https://media.discordapp.net/attachments/1354350699923640441/1369938272528240640/image.png?ex=681dadf0&is=681c5c70&hm=ebc143b185da414920ddd471c50babcc73e3aed25486114101c1785591133d0e&=&format=webp&quality=lossless&width=1782&height=856" alt="dashboard">
 <img src="https://media.discordapp.net/attachments/1354350699923640441/1369938653975154810/image.png?ex=681dae4b&is=681c5ccb&hm=f1b118e9bcc7236266cccdda9e90f055cba50e1f324f765874a14f6f09b3a8ed&=&format=webp&quality=lossless&width=1769&height=856" alt="dashboard">
+<h3>หน้า เครื่องมือคำนวณ 💚</h3>
+<img src="https://media.discordapp.net/attachments/1354350699923640441/1369977636348235898/image.png?ex=681dd299&is=681c8119&hm=f6313489270a8c2dc4c26deeb547edcc7d82b1464d1387696e01e526e2ec84d5&=&format=webp&quality=lossless&width=1747&height=856" alt="dashboard">
+<h3>หน้า ตัวอย่างเครื่องมือ</h3>
+<img src="https://media.discordapp.net/attachments/1354350699923640441/1369977683001475123/image.png?ex=681dd2a4&is=681c8124&hm=bf19a6fe49ffed08a4f2ef0d53f9f90ab5730e157428b44d65107b09d7f8a6ea&=&format=webp&quality=lossless&width=1747&height=856" alt="dashboard">
+<h3>หน้า chat Ai 🧠💙</h3>
+<img src="https://media.discordapp.net/attachments/1354350699923640441/1369977786177028096/image.png?ex=681dd2bd&is=681c813d&hm=b7fd5adfe0ed8613a8e4f6dc148d2be252db1abd0ae7c9b6044bd9540430ebe2&=&format=webp&quality=lossless&width=1744&height=856" alt="dashboard">
