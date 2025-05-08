@@ -1,4 +1,4 @@
-<h1>Hyper</h1><h1 style="color:yellow;">Weight</h1>
+<h1>HyperWeight 🟡</h1>
 <h3>หน้า Dashboard 💛</h3>
 <img src="https://media.discordapp.net/attachments/1354350699923640441/1369938034539233361/image.png?ex=681dadb7&is=681c5c37&hm=54d663f9135f6eeddf090c0bc9fc98f390889c854c6fcb449402f039b51d1d7a&=&format=webp&quality=lossless&width=1768&height=855" alt="dashboard">
 <img src="https://media.discordapp.net/attachments/1354350699923640441/1369938034912399430/image.png?ex=681dadb7&is=681c5c37&hm=7b5a91dabe7eaf429b7336ab3cabf11acfec100af287fcbc87c66811e559f617&=&format=webp&quality=lossless&width=1768&height=851" alt="dashboard">
